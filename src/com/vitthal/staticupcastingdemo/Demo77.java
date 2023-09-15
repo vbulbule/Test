@@ -5,7 +5,7 @@ public class Demo77 {
 
         A a1 = new B(); // upcasting
         a1.print();
-        a1.test(); // Amruta chuklis
+        a1.test(); //  chuklis
         /**
          *  Overriden method will be called insted of original in the super class
          */

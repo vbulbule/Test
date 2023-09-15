@@ -45,7 +45,7 @@ public class Demo {
 	    
 	   System.out.println(StrVal.isEmpty()); 
 	   
-	   System.out.println(StrVal.isBlank());
+	   //System.out.println(StrVal.isBlank());
 	   
 	   System.out.println(StrVal.toUpperCase());
 	   
